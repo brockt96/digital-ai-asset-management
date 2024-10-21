@@ -9,9 +9,9 @@ As per Entefy, the process of searching through digital assets can be quite limi
 ## Project Structure
 
 The project is broken down into several mini-projects, each representing a milestone.
+  * Digital Asset Collection
   * Object Detection
   * Object Tracking
   * Scene Detection
   * Logo and Face Recognition
   * Content Search & Retrieval
-
